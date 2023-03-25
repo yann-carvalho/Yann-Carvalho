@@ -1,4 +1,3 @@
-##
 ### Hi there! I'm Yann Carvalho! 😁
 
 - I’m currently studying Internet Systems at UNIESP College. 🎒
