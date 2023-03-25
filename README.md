@@ -4,6 +4,8 @@
 - Learning HTML, CSS, and Python. 💭
 - How to reach me? Instagram and LinkedIn. 📮
 
+    ![](https://komarev.com/ghpvc/?username=yann-carvalho&style=plastic)
+
 ## 
 ### Currently learning:
 
