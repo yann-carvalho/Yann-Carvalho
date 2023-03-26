@@ -38,6 +38,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yann-carvalho&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
-  ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yann-carvalho&theme=github-compact)
+  ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yann-carvalho&theme=high-contrast)
 
 ##
