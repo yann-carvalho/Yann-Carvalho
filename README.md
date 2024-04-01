@@ -1,7 +1,7 @@
 ## Hi there! I'm Yann Carvalho! 😁
 
 - I’m currently studying Internet Systems at UNIESP College. 🎒
-- Learning HTML, CSS, and Python. 💭
+- Learning Java/Spring, SQL, Python, HTML, CSS e JS. 💭
 - How to reach me? Instagram and LinkedIn. 📮
 
     ![](https://komarev.com/ghpvc/?username=yann-carvalho&style=plastic)
