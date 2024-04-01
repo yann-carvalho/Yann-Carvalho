@@ -21,8 +21,8 @@
 ##
 ### IDEs:
 <div>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"/>
 <div/>         
@@ -44,6 +44,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yann-carvalho&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
-  ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yann-carvalho&theme=high-contrast)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yann-carvalho&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
