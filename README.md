@@ -43,6 +43,7 @@
 
 <div>
   <a href="https://github.com/yann-carvalho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yann-carvalho&hide=stars&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yann-carvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yann-carvalho&layout=compact&langs_count=16&theme=dark"/>
 </div>
